@@ -1,6 +1,6 @@
  
  
-The script that you want is called (full_log_parsing).
+The script that you want is called (full_log_parsing.py).
 
 The other files are just pieces of the code that i was working on before
 I combined all of the scripts into one.
